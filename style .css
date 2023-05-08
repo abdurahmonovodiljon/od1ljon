@@ -1,0 +1,472 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 999px;
+  padding: 0 3px;
+  margin: 25px auto;
+}
+
+.header-content{
+ position: relative;
+ color: rgb(12, 3, 95);
+ left: 55px;
+ top: -21px;
+}
+
+.header-sporter{
+  padding-top: 100px;
+}
+
+.logo{
+  position: relative;
+  top: -27px;
+  width: 25px;
+  color: whitesmoke;
+}
+
+.header-png{
+  position: relative;
+  width: 27px;
+  top: -25px;
+  height: 23px;
+  left: 10px;
+}
+
+.header-alt{
+  display: flex;
+  color: #002B64 ;
+  padding-left: 33px;
+  margin-top: -28px;
+}
+
+.header-menu{
+  display: flex;
+  color: #002B64;
+  padding-left:53px;
+  margin: -26px;
+}
+
+.header-icons{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -15px;
+}
+
+.kufner{
+  display: flex;
+  font-size: 55px;
+   width: 100px;
+  justify-items: center;
+  color: #002B64; 
+}
+
+.header-kapital{
+  display: flex;
+  justify-content: center;
+}
+
+.class{
+  display:flex ;
+  justify-content: center;
+  font-size: 66px;
+  color: #002B64;
+}
+
+.sports{
+  display: flex;
+  justify-content:center;
+  padding-top: 12px;
+  font-size: 23px;
+}
+
+a{
+  text-decoration: none;
+  color: #002B69;
+}
+
+.header-sport{
+  margin: 108px 45px;
+  margin-left: -589px;
+}
+
+.clean{
+  display: flex;
+  padding-left: 247px;
+  width: 870px;
+  height: 360px;
+  margin-top: 40px;
+}
+
+.header-left{
+  color: #002b69;
+  padding: 23px 0px;
+}
+
+.icons{
+  display: flex;
+  width: 128px;
+  margin: 89px 348px;
+}
+
+.arrow{
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 880px;
+}
+
+.section-uns{
+ display: flex;
+ font-size: 45px;
+ padding: 2px 0;
+ margin-top: 79px;
+}
+
+.section-family{
+  display: flex;
+  width: 410px;
+  padding: 28px 1px;
+}
+
+.section-img{
+  display: flex;
+  width: 263px;
+  margin: -270px 25px;
+  height: 308px;
+}
+
+
+.section-imgs{
+  display: flex;
+  width: 263px;
+  margin: -280px -9px;
+  height: 319px;
+}
+
+.section-allt{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.section-www{
+  display: flex;
+  margin: 12px 12px;
+}
+
+.play-video{
+  display: flex;
+  font-size: 24px;
+  color: white;
+  background-color: #002b69;
+  border: none;
+  line-height:30px ;
+  width: 131px;
+  height: 43px;
+  font-weight: 700;
+  padding: 10px;
+}
+
+.header-logo{
+  padding-top: 35px;
+}
+
+.kontakt{
+  position: relative;
+  font-size: 25px;
+  font-weight: 700;
+  color: white;
+  background-color: #002B64;
+  border: none;
+  line-height: 30px;
+  height: 44px;
+  width: 202px;
+  left: 154px;
+  top: -44px; 
+}
+
+.pley{
+ padding-left: 23px;
+}
+
+.section-h1{
+  margin-top: 2px;
+}
+
+.section-car{
+  display: flex;
+  padding-left: 23px;
+}
+
+.brend{
+  display: flex;
+  font-size: 58px;
+}
+
+.sonlar{
+  display: flex;
+  gap: 50px;
+  margin-top: 20px;
+}
+
+.g-192-png{
+  position: relative;
+  top: 10px;
+  width: 240px;
+  left: 83px;
+}
+
+.enter{
+   padding-left: 647px;
+    margin-top: -87px;
+}
+
+.behind{
+  padding: 0 52px;
+}
+
+.logo-and{
+  display: flex;
+  justify-content: flex-end;
+  padding-left: 850px;
+  margin-top: 55px;
+}
+
+.capitals{
+  display: flex;
+  font-size: 50px;
+  color: #002B64;
+  justify-content: center;
+}
+
+.header-contents{
+  color: aliceblue;
+  padding-left: 50px;
+  margin-top: -23px;
+}
+
+.logos{
+  padding: 1px 30px;
+}
+
+.vordes{
+  display: flex;
+  justify-content: center;
+  margin-left: 95px;
+  color: #002B64;
+  width: 800px;
+  padding:12px 0;
+}
+
+.meta{
+ padding: 100px 0;
+ color: white;
+}
+
+.list{
+  background-color: rgb(46, 36, 36);
+}
+
+.header-conten{
+  position: relative;
+  color: #002b69;
+  left: 55px;
+  top: -21px;
+}
+
+.capitals{
+  color: white;
+}
+
+.vordes{
+  color: white;
+}
+
+.manchester{
+  background-color: #2e3030;
+}
+
+.header-alts{
+  position: relative;
+  left: -15px;
+  color: white;
+
+}
+
+.header-pngs{
+  padding: 1px 25px;
+}
+
+.header-menus{
+  color: white;
+}
+
+.button{
+  position: relative;
+  font-size: 24px;
+  font-weight: 700;
+  color: white;
+  background-color: #002B64;
+  border: none;
+  line-height: 30px;
+  height: 55px;
+  width: 270px;
+  left: 331px;
+  top: -59px;
+}
+
+.number-logo{
+ text-align: center;
+ margin-left: 890px;
+}
+
+.capitan{
+ color: #002B64;
+ padding: 95px 0;
+}
+
+.capitanmit{
+  display: flex;
+  justify-content: center;
+  font-size: 44px;
+}
+
+.direct{
+  text-align: center;
+  font-size: 31px;
+}
+
+.voris{
+  display: flex;
+  width: 830px;
+  margin-left: 75px;
+}
+
+.butt{
+  position: relative;
+  font-size: 24px;
+  font-weight: 700;
+  color: white;
+  background-color: #002B64;
+  border: none;
+  line-height: 30px;
+  height: 55px;
+  width: 270px;
+  border-radius: 10px;
+  left: 138px;
+  top: -59px;
+}
+
+.butts{
+  position: relative;
+  font-size: 24px;
+  font-weight: 700;
+  color: white;
+  background-color: #002B64;
+  border: none;
+  line-height: 30px;
+  height: 55px;
+  width: 270px;
+  border-radius: 10px;
+  left: 367px;
+  top: -59px;
+}
+
+.header-sports{
+  margin: 108px 45px;
+  margin-left: -589px;
+}
+
+.kontakt-www{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -451px;
+  font-size: 16px;
+  margin-left: 12px;
+}
+
+.design{
+  display: flex;
+  justify-content: flex-end;
+  padding: 93px 323px;
+}
+
+.name{
+  display: flex;
+  color: rgba(51, 49, 49, 0.603);
+  font-size: 20px;
+  height: 40px;
+  padding: 10px;
+  width: 254px;
+}
+
+.dein-name{
+  position: relative;
+  top: -10px;
+}
+
+.ynumber{
+  display: flex;
+  margin-left: 962px;
+  margin-top: -53px;
+}
+
+.betref{
+  display: flex;
+  color: rgba(51, 49, 49, 0.603);
+  font-size: 20px;
+  height: 40px;
+  padding: 10px;
+  width: 254px;
+}
+
+.email{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -160px;
+}
+
+.eff{
+  position: relative;
+  left: -587px;
+}
+
+.betrefs{
+  display: flex;
+  color: rgba(51, 49, 49, 0.603);
+  font-size: 20px;
+  height: 105px;
+  padding: 10px;
+  width: 539px;
+}
+
+.button-ken{
+  position: relative;
+  font-size: 24px;
+  border-radius: 5px;
+  color: white;
+  background-color: #002B64;
+  border: none;
+  height: 55px;
+  width: 270px;
+  left: 377px;
+  top: 19px;
+}
+
+.adres{
+  margin-left: -89px;
+}
+
+.yers-old{
+  position: relative;
+  left: -94px;
+  top: 33px;
+}
+
+.sec-png{
+  display: flex;
+   padding-left: 900px;
+}
+
